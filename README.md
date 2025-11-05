@@ -1,11 +1,10 @@
-# Clasificación de perros y gatos
+# Clasificación de humanos y caballos
 
-Este código fuente sirve como apoyo para el video de exportación de modelos de Tensorflow a Tensorflow.js, del canal de YouTube [Ringa Tech](https://youtube.com/RingaTech)
 
-Se trata de un clasificador en tiempo real de perros y gatos con imágenes a color. Puede utilizarse en el celular, solo apunta la cámara al perro o gato que quieres clasificar (puede ser una imagen de la computadora, una foto, o uno de verdad), lo hace todo en el explorador utilizando Tensorflow.js, en base aun modelo entrenado en Python con Tensorflow
+Se trata de un clasificador en tiempo real de humanos y caballos con imágenes a color. Puede utilizarse en el celular, solo apunta la cámara al perro o gato que quieres clasificar (puede ser una imagen de la computadora, una foto, o uno de verdad), lo hace todo en el explorador utilizando Tensorflow.js, en base aun modelo entrenado en Python con Tensorflow
 
 ## Probar en vivo
-Puedes probar este proyecto en vivo [aquí](https://ringa-tech.com/exportacion/perros-gatos/)
+Puedes probar este proyecto en vivo [aquí] (https://proud-ground-052834d0f.3.azurestaticapps.net/)
 
 ## Cómo utilizarlo
 
